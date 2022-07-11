@@ -37,7 +37,7 @@ export default function Home() {
           </svg>
         </a>
 
-        <a href="./img/Priyanshu_Bharti_Resume.pdf" className="">
+        <a href="./Resume.pdf" className="">
           <div className="shadow-xl shadow-sky-200 cursor-pointer text-white p-4 bg-gradient-to-br from-sky-500 to-cyan-400 md:hover:scale-105 transition md:hover:from-slate-600 md:hover:to-zinc-900 rounded-xl ">
             Download Resume
           </div>
