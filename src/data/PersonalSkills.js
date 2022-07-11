@@ -6,7 +6,7 @@ export const rowOne = [
   },
   {
     sno: "02",
-    title: "Develop solutions and Search for answers effectively.",
+    title: "Develop solutions and Search for answers.",
     grad: "from-sky-500 to-cyan-400",
   },
   {
@@ -16,7 +16,7 @@ export const rowOne = [
   },
   {
     sno: "04",
-    title: "Ability to learn and work with the latest technologies.",
+    title: "Ability to work with the latest technologies.",
     grad: "from-indigo-500 to-violet-400",
   },
   {
