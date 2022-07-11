@@ -16,10 +16,10 @@ export default function Skills() {
         />
       </div>
       <div className="px-4 md:px-0 grid gap-5 off-bounds md:absolute md:-translate-x-1/2 md:-translate-y-1/2 md:left-1/2 md:top-2/4 pt-16 ">
-        <div className="md:-translate-x-10 pl-20 ">
+        <div className="md:-translate-x-10 md:pl-20 ">
           <SkillRow data={rowOne} scroll="fwd" />
         </div>
-        <div className="md:translate-x-10 pr-20 ">
+        <div className="md:translate-x-10 md:pr-20 ">
           <SkillRow data={rowTwo} scroll="rev" />
         </div>
       </div>
